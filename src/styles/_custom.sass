@@ -2,18 +2,177 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 65%
+    right: 45%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float2 5.5s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 68%
+    left: 10%
+  &-3
+    animation: float1 4s ease-in-out infinite alternate
+    position: absolute
+    top: 45%
+    left: 5%
+  &-4
+    animation: float2 6s ease-in-out infinite alternate
+    position: absolute
+    top: 30%
+    left: 10%
 
 
 @keyframes float1
   0%
-    transform: translateY(20px)
-
+    transform: translateY(25px)
   100%
     transform: translateY(0px)
+  
+@keyframes float2
+  0%
+    transform: translateX(25px)
+  100%
+    transform: translateX(0px)
+  
+.bloque-intro .bloque-texto-g.color-primario
+  background: linear-gradient(to right, #4AC8D9, #3DA6B4)
+
+.bloque-texto-g.color-primario
+  background: linear-gradient(to right, #AFCADE, #DAF0F6)
+
+.cajon.color-secundario
+  background-color: #D2F3F8
+
+.cajon.color-acento-contenido
+  background-color: #FFF7DD
+
+.color-green .cajon.color-acento-contenido:before
+  background-color: #3BC192
+
+.cajon.color-acento-botones
+  background-color: #FFECD6
+
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title, .linea-tiempo-d__item__content__slot
+  background-color: #FFFAEC
+
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title
+  border-radius: 15px 15px 0 0 
+
+.linea-tiempo-d__item__content__slot
+  border-radius: 0 0 15px 15px
+
+.cajon-b.color-acento-contenido:before
+  background-color: #FCF6DF
+  top: 40%
+  bottom: 0
+  left: 55%
+  right: 0
+
+.BG01
+  background-color: #D2F3F8
+
+.BG02
+  background-color: #C3E2FD
+
+.BG03
+  background-color: #E6EEF5
+
+.BG04
+  background-color: #E6F9FB
+
+.BG05
+  background-color: #FEDBB3
+
+.BG06
+  background-color: #C1EFF5
+
+.BG07
+  background: linear-gradient(to right, #71C0CA, #BCE4EA)
+
+.BG08
+  background-color: #FBFAEE
+
+.BG09
+  background-color: #E4F8FB
+
+.BGRS10
+  background-color: #3E79A9
+  border-radius: 0 0 15px 0
+
+.BG11
+  background: linear-gradient(to bottom, #F4F4F5, #DEE1E8)
+
+.BG12
+  background: linear-gradient(to bottom, #F1F2F4, #F4F4F5)
+
+.BG13
+  background-color: #DEF7FA
+
+.BGR14
+  background-color: $white
+  border: 3px dashed #FD9927
+  border-radius: 0 15px 0 0
+
+.bloque-intro .bloque-texto-g__img
+  width: 38%
+  @media (max-width: $bp-max-md)
+    width: 100%
+
+.bloque-intro .bloque-texto-g__texto
+  width: 70%
+  @media (max-width: $bp-max-md)
+    width: 100%
+  
+.img-inv .bloque-texto-g__img
+  left: 50%
+  @media (max-width: $bp-max-md)
+    left: 0
+
+.img-inv .bloque-texto-g__texto
+  left: -40%
+  @media (max-width: $bp-max-md)
+    left: 0
+  
+.BG02
+  height: 737px
+  @media (max-width: $bp-max-xl)
+    height: 848px
+  @media (max-width: $bp-max-lg)
+    height: 600px
+  @media (max-width: $bp-max-md)
+    height: 695px
+  @media (max-width: $bp-max-sm)
+    height: 630px
+
+.slyder-a__bullets__item--active
+  background-color: #FD9927 !important
+
+.slyder-a__bullets__item
+  background-color: #EEE8D4
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #EFC283
+  @media (max-width: $bp-max-xs)
+    width: 25px
+    height: 25px
+  
+.slyder-a__bullets__item
+  @media (max-width: $bp-max-xs)
+    width: 7px
+    height: 7px
+    margin: 0 5px
+  
+.w-img01
+  position: relative
+  left: -25px
+
+.tabs-c.color-acento-contenido .tabs-c__tab--active
+  font-weight: bold
+
+.tabs-b__tab
+  background-color: #FFF9E8
+
+.tabs-b__tab--active
+  background-color: $white
+
+.cajon-b.color-secundario:before
+  background-color: #E4F8FB
