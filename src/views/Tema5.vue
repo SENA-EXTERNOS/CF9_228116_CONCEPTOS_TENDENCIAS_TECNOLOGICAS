@@ -10,7 +10,7 @@
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 5.1 Concepto
     
-    p La estadística es la ciencia o rama de la matemática que se encarga de recopilar, organizar y analizar datos para estudiar algún fenómeno o circunstancia específica. 
+    p.mb-5 La estadística es la ciencia o rama de la matemática que se encarga de recopilar, organizar y analizar datos para estudiar algún fenómeno o circunstancia específica. 
 
     .row.justify-content-end.align-items-center.mb-4
       .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
@@ -65,19 +65,16 @@
         .col-lg-3.col-10.mb-lg-0.mb-4
           img(src="@/assets/curso/tema5/img03.svg")
         .col-lg-6
-          .h4 Gráfico de dispersión
           p.mb-0 Muestra la relación que hay entre dos variables cuantitativas sobre un mismo grupo de individuos.
       .row.justify-content-around.align-items-center.py-md-4.py-3(titulo="Gráfico de barras")
         .col-lg-3.col-10.mb-lg-0.mb-4
           img(src="@/assets/curso/tema5/img04.svg")
         .col-lg-6
-          .h4 Gráfico de barras
           p.mb-0 A cada valor del eje X le corresponde un valor del eje Y que determina el alto de una columna. Son muy valiosos para comparar magnitudes; por ejemplo, se puede representar el número de habitantes de una ciudad según el rango de edad.
       .row.justify-content-around.align-items-center.py-md-4.py-3(titulo="Gráfico circular")
         .col-lg-3.col-10.mb-lg-0.mb-4
           img(src="@/assets/curso/tema5/img05.svg")
         .col-lg-6
-          .h4 Gráfico circular
           p.mb-0 También llamado gráfico de torta. Muestra la distribución de determinada población o grupo en diferentes partes. Es una herramienta valiosa para los casos en los que se conoce el absoluto y lo que interesa es conocer la forma en la que este se repartió en varias partes. Por ejemplo, se puede representar el porcentaje de votos que sacó cada partido político en una elección, porcentajes de ventas en ocho  meses continuos, etc.
 
     #t_5_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")

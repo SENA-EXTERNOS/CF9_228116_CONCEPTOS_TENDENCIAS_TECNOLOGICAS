@@ -23,13 +23,13 @@
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema2/img02.svg' alt='AvatarTop')
           .tarjeta.color-secundario.BGRS10.p-4
-            p.text-white.ms-4.mb-0 #[b Principal]: es aquel básico o elemental para el funcionamiento mismo del sistema.
+            p.text-white.ms-5.mb-0 #[b Principal]: es aquel básico o elemental para el funcionamiento mismo del sistema.
       .col-md-6.col-10.mb-md-0.mb-4(data-aos="fade-left")
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema2/img03.svg' alt='AvatarTop')
           .tarjeta.color-secundario.BGRS10.p-4
-            p.text-white.ms-4.mb-0 #[b Complementario]: vendría siendo todo aquel destinado a cumplir con funciones específicas y secundarias, y que solo serían llevadas a cabo si el principal se encuentra funcionando correctamente.
+            p.text-white.ms-5.mb-0 #[b Complementario]: vendría siendo todo aquel destinado a cumplir con funciones específicas y secundarias, y que solo serían llevadas a cabo si el principal se encuentra funcionando correctamente.
 
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.2 Características del #[em hardware]

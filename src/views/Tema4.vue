@@ -80,27 +80,23 @@
         .col-lg-3.col-6.mb-lg-0.mb-4
           img(src="@/assets/curso/tema4/img10.svg")
         .col-lg-6
-          .h4 Topología de bus
           p Tiene un único medio de comunicaciones que conecta a todos los equipos. Es un cable troncal que alinea todos los dispositivos a la red.
       .row.justify-content-around.align-items-center.BG13.py-md-4.py-3(titulo="Topología estrella")
         .col-lg-3.col-6.mb-lg-0.mb-4
           img(src="@/assets/curso/tema4/img11.svg")
         .col-lg-6
-          .h4 Topología estrella
           p En esta configuración los segmentos de los elementos de conexión (cable y fibra óptica) de cada equipo o dispositivo  de la red están conectados a un componente centralizado o concentrador (dispositivo que conecta varios equipos juntos). 
           p.mb-0 Las señales se transmiten desde el equipo y a través del concentrador hacia todos los equipos de la red.
       .row.justify-content-around.align-items-center.BG13.py-md-4.py-3(titulo="Topología en anillo")
         .col-lg-3.col-6.mb-lg-0.mb-4
           img(src="@/assets/curso/tema4/img12.svg")
         .col-lg-6
-          .h4 Topología en anillo
           p Cada computador está conectado únicamente a otros dos nodos (anterior y posterior) de tal forma que la cadena se cierra formando un anillo. 
           p.mb-0 En esta categoría la información para por cada uno de los nodos, partiendo de que cada uno de estos la envía y la recibe.
       .row.justify-content-around.align-items-center.BG13.py-md-4.py-3(titulo="Topología en malla")
         .col-lg-3.col-6.mb-lg-0.mb-4
           img(src="@/assets/curso/tema4/img13.svg")
         .col-lg-6
-          .h4 Topología en malla
           p Forma de conexión en donde cada equipo o nodo está conectado al resto por un cable distinto. 
           p Gracias a los múltiples caminos que ofrece a través de los distintos dispositivos es posible orientar el tráfico por trayectorias alternativas en caso de que algún nodo esté averiado u ocupado.
           p.mb-0 Una red con topología en malla ofrece una redundancia y fiabilidad superiores. Aunque la facilidad de solución de problemas y el aumento de la confiabilidad son ventajas muy interesantes, al utilizar mucho cableado estas redes resultan caras de instalar.
@@ -108,7 +104,6 @@
         .col-lg-3.col-6.mb-lg-0.mb-4
           img(src="@/assets/curso/tema4/img14.svg")
         .col-lg-6
-          .h4 Topología árbol
           p Es aquella que combina características de la topología estrella con la de bus aplicando las funcionalidades de las dos. 
           p El nodo de interconexión trabaja en modo difusión, pues la información se propaga hacia todas las estaciones y las ramificaciones se extienden a partir de un punto raíz, como la de estrella, a tantas derivaciones como sea posible y según las características del árbol.
           p.mb-0 Una similitud con la topología de estrella es que los nodos del árbol están conectados a un concentrador central o hub que controla el tráfico de la red. Pero no todos los nodos se conectan directamente al concentrador central, la mayoría de los dispositivos se conectan a un concentrador secundario que, a su vez, se conecta al concentrador central.

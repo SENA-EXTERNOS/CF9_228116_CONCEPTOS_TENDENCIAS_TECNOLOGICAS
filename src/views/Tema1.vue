@@ -51,7 +51,6 @@
             .col-10
               img(src="@/assets/curso/tema1/img04.svg")
           .h4 Sistema de Apoyo a la Decisión (DSS)
-          p Sistema de Apoyo a la Decisión (DSS):
           p Este tipo de sistema proporciona información, datos, modelos y herramientas de manipulación de datos para ayudar a tomar la decisión en situaciones semiestructurada y no estructurada.
           p.mb-0 Así mismo, comprende herramientas y técnicas para ayudar a recopilar información relevante y analizar las opciones y alternativas. El usuario final está más involucrado en la creación de DSS que en un MIS. Ejemplo: sistemas de planificación financiera, sistemas de gestión de préstamos bancarios.
       .col-xl-3.col-md-6(data-aos="fade-left")

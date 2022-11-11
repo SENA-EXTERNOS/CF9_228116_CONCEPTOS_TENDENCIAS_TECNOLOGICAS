@@ -253,7 +253,7 @@ export default {
     {
       termino: 'Compatible',
       significado:
-        'describe la capacidad de un tipo de <em>hardware</em>, <em>software</em> o archivo de datos para trabajar con otro',
+        'describe la capacidad de un tipo de <em>hardware</em>, <em>software</em> o archivo de datos para trabajar con otro.',
     },
     {
       termino: 'Datagrama',
