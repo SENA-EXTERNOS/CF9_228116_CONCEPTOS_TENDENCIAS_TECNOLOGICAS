@@ -176,6 +176,10 @@
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img14.png")
 
+    separador
+    #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 1.3 Tendencias tecnológicas
+
     p Existen numerosos ejemplos de tecnologías superiores que nunca se adoptaron porque otras llegaron a tiempo o les fue mejor en el mercado. El libro El dilema del innovador y sus secuelas, del autor Christensen, C, describe mejor el proceso de innovación y disrupción, haciendo hincapié en ¿cuál es el futuro de la tecnología?
     p.mb-5 Veremos en la siguiente infografía, partiendo de la obra mencionada, esos temas que comandarán la tecnología en los tiempos venideros:
 
