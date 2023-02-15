@@ -6,9 +6,6 @@
       .titulo-principal__numero
         span 2
       h1 #[em Hardware]
-    
-    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 2.1 Concepto y tipos de #[em hardware]
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-4.col-8.mb-lg-0.mb-4.px-0(data-aos="fade-right")
@@ -31,8 +28,7 @@
           .tarjeta.color-secundario.BGRS10.p-4
             p.text-white.ms-5.mb-0 #[b Complementario]: vendría siendo todo aquel destinado a cumplir con funciones específicas y secundarias, y que solo serían llevadas a cabo si el principal se encuentra funcionando correctamente.
 
-    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 2.2 Características del #[em hardware]
+    h3(data-aos="fade-right") Características del #[em hardware]
 
     p Las características fundamentales del #[em hardware] son:
 

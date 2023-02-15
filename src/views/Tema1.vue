@@ -7,12 +7,7 @@
         span 1
       h1 Servicios de Tecnología de la Información
     
-    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.1 Concepto, tipos y características
-    
-    .row.justify-content-center.mb-4(data-aos="flip-up")
-      .col-lg-10.cajon.color-acento-contenido.p-4
-        p.mb-0 Los sistemas de información son combinaciones de #[em hardware], #[em software] y redes de telecomunicaciones que las personas construyen y usan para recopilar, crear y distribuir datos útiles, generalmente en entornos organizacionales (Bootpoot, 2021). A continuación se describirán sus principales elementos:
+    p.mb-5 Los sistemas de información son combinaciones de <i>hardware</i>, <i>software</i> y redes de telecomunicaciones que las personas construyen y usan para recopilar, crear y distribuir datos útiles, generalmente en entornos organizacionales (Bootpoot, 2021). A continuación, se describirán sus principales elementos:  
 
     .row.justify-content-center.mb-4
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-right")
@@ -25,7 +20,7 @@
           p 2. Supervisa, optimiza y soluciona problemas del rendimiento de las aplicaciones, los servicios y la infraestructura.
           p.mb-0 3.	Supervisa la seguridad y el gobierno de las aplicaciones, los servicios y la infraestructura”. (John, Spacey, 2018).
     
-    p A continuación exploraremos los tipos de sistemas de información más utilizados:
+    p A continuación, exploraremos los tipos de sistemas de información más utilizados:
 
     .row.justify-content-center.mb-4
       .col-xl-3.col-md-6.mb-xl-0.mb-4(data-aos="fade-right")
@@ -44,7 +39,7 @@
               img(src="@/assets/curso/tema1/img03.svg")
           .h4 Sistema de Información Gerencial (MIS)
           p El sistema está diseñado para tomar datos sin procesar y tramitar disponibles a través de un sistema de procesamiento de transacciones y convertirlos en un formulario resumido y agregado para el gerente, generalmente en un formato de informe. Tiende a ser utilizado por mandos intermedios y supervisores operativos con el fin de reportar su gestión a los altos mandos,
-          p.mb-0 A su vez, produce diferentes tipos de informes como: informe resumido, informe a pedido, informes ad hoc e informe de excepción. Ejemplo: sistemas de gestión de ventas y sistema de gestión de recursos humanos.
+          p.mb-0 A su vez, produce diferentes tipos de informes como: informe resumido, informe de pedido, informes ad hoc e informe de excepción. Ejemplo: sistemas de gestión de ventas y sistema de gestión de recursos humanos.
       .col-xl-3.col-md-6.mb-xl-0.mb-4(data-aos="flip-up")
         .BG02.p-4
           .row.justify-content-center.mb-4
@@ -69,26 +64,24 @@
         img(src="@/assets/curso/tema1/img06.png")
       .col-lg-7(data-aos="fade-left")
         LineaTiempoD.color-acento-botones
-          p.text-small.mb-0(numero="1" titulo="Disponibilidad/ accesibilidad") Esta característica plantea que la información debe ser de fácil acceso. Si se encuentra guardada en un libro, solo está disponible, mas es de fácil acceso si el libro se tiene a la mano. Un buen ejemplo de disponibilidad es un directorio telefónico porque cada hogar tiene uno para su área local. Es probablemente el primer lugar donde se busca un número local, pero nadie mantiene las guías telefónicas de todo el país, de ahí que para la consulta de números de otras zonas es posible que se tenga que llamar a un número de consulta del directorio. 
-          p.text-small.mb-0(numero="2" titulo="Precisión") Permite describir una información lo suficientemente precisa para el uso que se le va a dar. Obtener datos que sean 100 % precisos por lo general no es realista, pues es probable que sea demasiado costoso producirlos a tiempo: el grado de precisión depende de las circunstancias. En los niveles operativos es posible que la información sea ajustada al centavo más cercano, ya que si sucede un error no previsto se puede generar alguna pérdida a la organización. 
-          p.text-small.mb-0(numero="3" titulo="Fiabilidad u objetividad") La confiabilidad se ocupa de que sea veraz la información o de que esta se presente de manera objetiva. Solo puede usar el material con confianza si está seguro de su confiabilidad y objetividad.
-          p.text-small.mb-0(numero="4" titulo="Pertinencia/ Adecuación") La información debe ser relevante según el propósito para el cual se requiere. Lo que es importante para un gerente puede no serlo para otro. El usuario se sentirá frustrado si la información contiene datos irrelevantes para una tarea específica.
-          p.text-small.mb-0(numero="5" titulo="Completitud") En esta característica puede observarse que la información contenga todos los detalles requeridos por el usuario. De lo contrario, puede no ser útil como base para tomar una decisión. 
+          p.mb-0(numero="1" titulo="Disponibilidad/ accesibilidad") Esta característica plantea que la información debe ser de fácil acceso. Si se encuentra guardada en un libro, solo está disponible, más es de fácil acceso si el libro se tiene a la mano. Un buen ejemplo de disponibilidad es un directorio telefónico, porque cada hogar tiene uno para su área local. Es probablemente el primer lugar donde se busca un número local, pero nadie mantiene las guías telefónicas de todo el país, de ahí que para la consulta de números de otras zonas es posible que se tenga que llamar a un número de consulta del directorio. 
+          p.mb-0(numero="2" titulo="Precisión") Permite describir una información lo suficientemente precisa para el uso que se le va a dar. Obtener datos que sean 100 % precisos por lo general no es realista, pues es probable que sea demasiado costoso producirlos a tiempo: el grado de precisión depende de las circunstancias. En los niveles operativos, es posible que la información sea ajustada al centavo más cercano, ya que si sucede un error no previsto se puede generar alguna pérdida para la organización. 
+          p.mb-0(numero="3" titulo="Fiabilidad u objetividad") La confiabilidad se ocupa de que la información sea veraz o de que esta se presente de manera objetiva. Solo puede usar el material si está seguro de su confiabilidad y objetividad.
+          p.mb-0(numero="4" titulo="Pertinencia/ Adecuación") La información debe ser relevante según el propósito para el cual se requiere. Lo que es importante para un gerente puede no serlo para otro. El usuario se sentirá frustrado si la información contiene datos irrelevantes para una tarea específica.
+          p.mb-0(numero="5" titulo="Completitud") En esta característica puede observarse que la información contenga todos los detalles requeridos por el usuario. De lo contrario, puede no ser útil para tomar una decisión. 
 
     .row.justify-content-center.mb-5
       .col-lg-7.mb-lg-0.mb-4(data-aos="fade-right")
         LineaTiempoD.color-acento-botones
-          p.text-small.mb-0(numero="6" titulo="Nivel de detalle/ Concisión") La información debe estar de una forma que sea lo suficientemente breve para permitir su examen y uso. Para alcanzar este nivel no debe haber detalles superfluos.
-          p.text-small.mb-0(numero="7" titulo="Presentación") Es importante para el usuario. Se trata de una característica en la cual la información se puede entender de modo más fácil si es estéticamente agradable, si tiene una sinergia clara entre el texto, los gráficos, las imágenes y demás apoyos visuales. 
-          p.text-small.mb-0(numero="8" titulo="Tiempo") La información debe estar a tiempo para el propósito que se requiere. Esta característica muestra que la información recibida tarde será irrelevante. 
-          p.text-small.mb-0(numero="9" titulo="Valor de la información") Característica en la cual la importancia relativa de la información para la toma de decisiones puede aumentar o disminuir su valor para una compañía. 
-          p.text-small.mb-0(numero="10" titulo="Costo de la información") La información debe estar disponible dentro de los niveles de costos establecidos, los cuales pueden variar según la situación. Si los costos son demasiado altos para obtener información, una organización puede decidir la búsqueda de información un poco menos completa en otro lugar (Bootpoot, 2021). 
+          p.mb-0(numero="6" titulo="Nivel de detalle/ Concisión") La información debe estar de una forma que sea lo suficientemente breve para permitir su examen y uso. Para alcanzar este nivel no debe haber detalles superfluos.
+          p.mb-0(numero="7" titulo="Presentación") Es importante para el usuario. Se trata de una característica en la cual la información se puede entender de modo más fácil si es estéticamente agradable, si tiene una sinergia clara entre el texto, los gráficos, las imágenes y demás apoyos visuales. 
+          p.mb-0(numero="8" titulo="Tiempo") La información debe estar a tiempo para el propósito que se requiere. Esta característica muestra que la información recibida tarde será irrelevante.  
+          p.mb-0(numero="9" titulo="Valor de la información") Característica en la cual la importancia relativa de la información para la toma de decisiones puede aumentar o disminuir su valor para una compañía.
+          p.mb-0(numero="10" titulo="Costo de la información") La información debe estar disponible dentro de los niveles de costos establecidos, los cuales pueden variar según la situación. Si los costos son demasiado altos para obtener información, una organización puede elegir la búsqueda de información menos completa en otro lugar (Bootpoot, 2021).
       .col-lg-5.col-10(data-aos="fade-left")
         img(src="@/assets/curso/tema1/img07.png")
 
-    separador
-    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.2 Sistemas integrados y arquitectura
+    h3(data-aos="fade-right") Sistemas integrados y arquitectura
     
     .bloque-texto-g.color-primario.img-inv.p-3.p-sm-4.mb-4
       .bloque-texto-g__img(
@@ -160,7 +153,7 @@
             .h4 Mejor gestión y análisis de aplicaciones
             p Realizar diferentes análisis para cada aplicación no solo requiere mucho tiempo, sino que a menudo es de poca utilidad. Una gran cantidad de aplicaciones dentro del entorno empresarial causará complicaciones, lo que hace que sea mucho más difícil analizar el panorama general.
             p Especialmente en las grandes empresas es fundamental obtener una visión general de la aplicación y sus enlaces. Sin embargo, es casi imposible obtener una imagen clara si no existe una arquitectura de integración inteligente. Esta falta de análisis adecuado puede causar rezago frente a la competencia.
-            p.mb-0 Con Integración de la arquitectura se puede obtener una comprensión general de qué tan bien le está yendo a la empresa, de tal manera que sea posible tomar decisiones informadas sobre el desarrollo futuro.
+            p.mb-0 La integración de la arquitectura puede obtener una comprensión general de qué tan bien le está yendo a la empresa, de tal manera que sea posible tomar decisiones informadas sobre el desarrollo futuro.
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img12.png")
         .row.justify-content-center.align-items-center
@@ -176,9 +169,7 @@
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img14.png")
 
-    separador
-    #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.3 Tendencias tecnológicas
+    h3(data-aos="fade-right") Tendencias tecnológicas
 
     p Existen numerosos ejemplos de tecnologías superiores que nunca se adoptaron porque otras llegaron a tiempo o les fue mejor en el mercado. El libro El dilema del innovador y sus secuelas, del autor Christensen, C, describe mejor el proceso de innovación y disrupción, haciendo hincapié en ¿cuál es el futuro de la tecnología?
     p.mb-5 Veremos en la siguiente infografía, partiendo de la obra mencionada, esos temas que comandarán la tecnología en los tiempos venideros:
@@ -188,7 +179,7 @@
     
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-10.cajon.color-acento-botones.p-4
-        p.mb-0 Conocer el entorno global del uso y la importancia de la tecnología nos obliga a retroceder un poco e indagar desde la raíz algunos conceptos básicos con el fin de obtener una adecuada apropiación del tema. Es por esto que vale la pena definir en un primer momento lo que es un computador, y luego detallar los elementos que lo componen.
+        p.mb-0 Conocer el entorno global del uso y la importancia de la tecnología, nos obliga a retroceder un poco e indagar desde la raíz algunos conceptos básicos, con el fin de obtener una adecuada apropiación del tema. Es por esto que, vale la pena definir en un primer momento lo que es un computador y luego detallar los elementos que lo componen.
 
     .row.justify-content-center.mb-4
       .col-lg-7.order-lg-1.order-2.BG07.p-5(data-aos="fade-right")

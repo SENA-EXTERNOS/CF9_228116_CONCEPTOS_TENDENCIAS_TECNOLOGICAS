@@ -43,26 +43,6 @@ export default {
         numero: '1',
         titulo: 'Servicios de Tecnología de la Información',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Concepto, tipos y características',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Sistemas integrados y arquitectura',
-            hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Tendencias tecnológicas',
-            hash: 't_1_3',
-          },
-        ],
       },
       {
         nombreRuta: 'tema2',
@@ -70,20 +50,6 @@ export default {
         numero: '2',
         titulo: '<em>Hardware</em>',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Concepto y tipos de <em>hardware</em>',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Características del <em>hardware</em>',
-            hash: 't_2_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -91,20 +57,6 @@ export default {
         numero: '3',
         titulo: '<em>Software</em>',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Concepto y tipos de <em>software</em>',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Características del <em>software</em>',
-            hash: 't_3_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema4',
@@ -112,20 +64,6 @@ export default {
         numero: '4',
         titulo: 'Red',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.1',
-            titulo: 'Concepto de red y tipos de redes',
-            hash: 't_4_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.2',
-            titulo: 'Clasificación de redes',
-            hash: 't_4_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema5',
@@ -133,32 +71,6 @@ export default {
         numero: '5',
         titulo: 'Estadística',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.1',
-            titulo: 'Concepto',
-            hash: 't_5_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.2',
-            titulo: 'Tipo de datos estadísticos',
-            hash: 't_5_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.3',
-            titulo: 'Gráficos estadísticos',
-            hash: 't_5_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.4',
-            titulo: 'Análisis de datos',
-            hash: 't_5_4',
-          },
-        ],
       },
     ],
     subMenu: [

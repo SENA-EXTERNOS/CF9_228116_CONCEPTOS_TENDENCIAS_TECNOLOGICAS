@@ -7,8 +7,7 @@
         span 5
       h1 Estadística
     
-    #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 5.1 Concepto
+    h3(data-aos="fade-right") Concepto
     
     p La estadística es la ciencia o rama de la matemática que se encarga de recopilar, organizar y analizar datos para estudiar algún fenómeno o circunstancia específica. 
     p.mb-5 Los componentes de la estadística son:
@@ -56,8 +55,7 @@
           .BGR14.p-3(x="66.5%" y="88%" numero="6")
             p.mb-0 Se expresan con números reales, ilimitados porque pueden ser intermedios. Manejan escala de valores o pertenecen a rangos. Ejemplo: la altura de los árboles de una reserva ecológica, cuyos valores pueden ser 7,34 metros y 10,15 metros; la altura de los rascacielos de una ciudad, entre otros.
 
-    #t_5_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 5.2 Gráficos estadísticos
+    h3(data-aos="fade-right") Gráficos estadísticos
 
     p Nos adentraremos en este momento en los tipos de gráficos estadísticos según la clase de información que se quiera analizar e interpretar.
 
@@ -78,11 +76,10 @@
         .col-lg-6
           p.mb-0 También llamado gráfico de torta. Muestra la distribución de determinada población o grupo en diferentes partes. Es una herramienta valiosa para los casos en los que se conoce el absoluto y lo que interesa es conocer la forma en la que este se repartió en varias partes. Por ejemplo, se puede representar el porcentaje de votos que sacó cada partido político en una elección, porcentajes de ventas en ocho  meses continuos, etc.
 
-    #t_5_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 5.3 Análisis de datos
+    h3(data-aos="fade-right") Análisis de datos
 
     p Para el análisis de los datos estadísticos revisaremos en este apartado las cuatro etapas a seguir; estas se  basan en la aplicación de herramientas y técnicas estadísticas que permitirán obtener información exacta de análisis de los datos con el objetivo de lograr el resultado esperado, realizar conclusiones y tomar decisiones acertadas.
-    p.mb-5 Detallemos, entonces, las etapas, herramientas y técnicas estadísticas:
+    p.mb-5 Detallemos entonces las etapas, herramientas y técnicas estadísticas:
 
     .row.justify-content-center.mb-4
       .col-lg-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")

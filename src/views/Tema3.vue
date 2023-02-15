@@ -7,8 +7,7 @@
         span 3
       h1 #[em Software]
     
-    #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 3.1 Concepto y tipos de #[em software]
+    h3(data-aos="fade-right") Concepto y tipos de #[em software]
     
     .bloque-texto-g.color-primario.img-inv.p-3.p-sm-4.mb-4
       .bloque-texto-g__img(
@@ -18,8 +17,7 @@
         p Entendida la parte externa del computador, es hora de adentrarnos en sus componentes internos o #[em software], el cual puede definirse como la parte lógica e intangible de un computador; el conjunto de instrucciones que se conocen como programas y que permiten direccionar el equipo para que realice tareas específicas.<br><br>
         p.mb-0 Estas instrucciones o programas le indican a los componentes físicos de la máquina lo que deben hacer; sin las instrucciones no podría llevar a cabo nada. En palabras sencillas, #[b el #[em software] es lo que permite que el #[em hardware] funcione]. Es decir, son las rutinas lógicas, digitales e intangibles (que no se pueden tocar) del equipo informático o móvil.
 
-    #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 3.2 Característica del #[em software]
+    h3(data-aos="fade-right") Característica del #[em software]
 
     p Un #[em software] de excelente calidad debe tener estos aspectos como parte de su programación: 
 

@@ -3,10 +3,6 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    .titulo-sexto.color-acento-contenido
-      h5 Implementación de Infraestructura de Tecnologías de la Información y las Comunicaciones
-      p.mb-0 Conceptos de tendencias tecnológicas
-
     p.mb-5 A partir del componente formativo podemos deducir que la apropiación de la terminología para controlar el proceso de adquisición de los equipos tecnológicos permite ampliar las habilidades y destrezas para la toma de decisiones según la normativa.
 
     .row.justify-content-center

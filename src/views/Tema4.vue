@@ -7,14 +7,12 @@
         span 4
       h1 Red
     
-    #t_4_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 4.1 Concepto de red y tipo de redes
-    
+   
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-4.col-8.mb-lg-0.mb-4.px-0(data-aos="fade-right")
         img(src="@/assets/curso/tema4/img01.png")
       .col-lg-8.BG09.p-4.w-img01(data-aos="fade-left")
-        p Una red es una serie de puntos o nodos interconectados por líneas de comunicación. Los nodos pueden ser dispositivos dedicados a una sola función, como una computadora utilizada para la aplicación del cliente o un enrutador utilizado para conectar redes. El propósito completo de cualquier red es permitir que dos puntos finales: redes, servidores, enrutadores, entre otros, se comuniquen entre sí y transfieran datos.
+        p Una red es una serie de puntos o nodos interconectados por líneas de comunicación. Los nodos pueden ser dispositivos dedicados a una sola función, como una computadora utilizada para la aplicación del cliente o un enrutador utilizado para conectar redes. El propósito completo de cualquier red es permitir que dos puntos finales, redes, servidores, enrutadores, entre otros, se comuniquen entre sí y transfieran datos.
         p.mb-0 Las redes pueden dividirse según su tamaño y la forma en la que se conectan los equipos.
     
     p En un primer momento, exploraremos la clasificación de las redes según el tamaño:
