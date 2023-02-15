@@ -6,9 +6,7 @@
       .titulo-principal__numero
         span 3
       h1 #[em Software]
-    
-    h3(data-aos="fade-right") Concepto y tipos de #[em software]
-    
+  
     .bloque-texto-g.color-primario.img-inv.p-3.p-sm-4.mb-4
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema3/img01.jpg')})`}"
