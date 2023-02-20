@@ -6,9 +6,7 @@
       .titulo-principal__numero
         span 5
       h1 Estadística
-    
-    h3(data-aos="fade-right") Concepto
-    
+ 
     p La estadística es la ciencia o rama de la matemática que se encarga de recopilar, organizar y analizar datos para estudiar algún fenómeno o circunstancia específica. 
     p.mb-5 Los componentes de la estadística son:
 

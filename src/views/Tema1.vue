@@ -24,7 +24,7 @@
 
     .row.justify-content-center.mb-4
       .col-xl-3.col-md-6.mb-xl-0.mb-4(data-aos="fade-right")
-        .BG02.p-4
+        .BG02.p-4.h-100
           .row.justify-content-center.mb-4
             .col-10
               img(src="@/assets/curso/tema1/img02.svg")
@@ -32,16 +32,16 @@
           p Este sistema procesa los datos resultantes de las transacciones comerciales. 
           p Proporciona transacciones para actualizar registros y generar informes; realiza la función de mantenimiento de tiendas y organizaciones de dicho sector.
           p.mb-0 La transacción se realiza de dos maneras: procesamiento por lotes y procesamiento de transacciones en línea. Ejemplo: sistema de facturación, sistema de nómina y sistema de control de inventarios.
-      .col-xl-3.col-md-6.mb-xl-0.mb-4(data-aos="flip-up")
-        .BG02.p-4
+      .col-xl-3.col-md-6.mb-xl-0.mb-4(data-aos="fade-right")
+        .BG02.p-4.h-100
           .row.justify-content-center.mb-4
             .col-10
               img(src="@/assets/curso/tema1/img03.svg")
           .h4 Sistema de Información Gerencial (MIS)
           p El sistema está diseñado para tomar datos sin procesar y tramitar disponibles a través de un sistema de procesamiento de transacciones y convertirlos en un formulario resumido y agregado para el gerente, generalmente en un formato de informe. Tiende a ser utilizado por mandos intermedios y supervisores operativos con el fin de reportar su gestión a los altos mandos,
           p.mb-0 A su vez, produce diferentes tipos de informes como: informe resumido, informe de pedido, informes ad hoc e informe de excepción. Ejemplo: sistemas de gestión de ventas y sistema de gestión de recursos humanos.
-      .col-xl-3.col-md-6.mb-xl-0.mb-4(data-aos="flip-up")
-        .BG02.p-4
+      .col-xl-3.col-md-6.mb-xl-0.mb-4(data-aos="fade-left")
+        .BG02.p-4.h-100
           .row.justify-content-center.mb-4
             .col-10
               img(src="@/assets/curso/tema1/img04.svg")
@@ -49,7 +49,7 @@
           p Este tipo de sistema proporciona información, datos, modelos y herramientas de manipulación de datos para ayudar a tomar la decisión en situaciones semiestructurada y no estructurada.
           p.mb-0 Así mismo, comprende herramientas y técnicas para ayudar a recopilar información relevante y analizar las opciones y alternativas. El usuario final está más involucrado en la creación de DSS que en un MIS. Ejemplo: sistemas de planificación financiera, sistemas de gestión de préstamos bancarios.
       .col-xl-3.col-md-6(data-aos="fade-left")
-        .BG02.p-4
+        .BG02.p-4.h-100
           .row.justify-content-center.mb-4
             .col-10
               img(src="@/assets/curso/tema1/img05.svg")
