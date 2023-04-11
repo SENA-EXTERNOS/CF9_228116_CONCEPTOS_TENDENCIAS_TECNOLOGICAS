@@ -11,7 +11,7 @@
       .col-lg-4.col-8.mb-lg-0.mb-4.px-0(data-aos="fade-right")
         img(src="@/assets/curso/tema2/img01.png")
       .col-lg-8.BG09.p-4.w-img01(data-aos="fade-left")
-        .h5 Compuesto por aquellos elementos tangibles o periféricos que unidos conforman la computadora o un sistema informático. Es decir, representa los componentes físicos de la máquina que necesita su sistema para poder funcionar de manera correcta.
+        p Compuesto por aquellos elementos tangibles o periféricos que unidos conforman la computadora o un sistema informático. Es decir, representa los componentes físicos de la máquina que necesita su sistema para poder funcionar de manera correcta.
         p.mb-0 Dado que los componentes físicos de un sistema informático o computacional pueden variar, una delimitación del concepto o definición de #[em hardware] propone su comprensión a partir de las siguientes categorías:        
     
     .row.justify-content-center.mb-4
