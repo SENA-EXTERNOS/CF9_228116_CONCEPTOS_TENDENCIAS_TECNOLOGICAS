@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Conceptos de Tendencias Tecnológicas',
     descripcionCurso:
-      'Las pequeñas y grandes compañías necesitan adquirir hardware y software. Con la tecnología en evolución continua y la llegada al mercado de nuevos productos y soluciones, ¿cómo podemos estar seguros de escoger la mejor tecnología para nuestras necesidades específicas? La respuesta no siempre es simple. Al final hay un número de factores a considerar en el proceso de adquisición.',
+      'Las pequeñas y grandes compañías necesitan adquirir <em>hardware</em> y <em>software</em>. Con la tecnología en evolución continua y la llegada al mercado de nuevos productos y soluciones, ¿cómo podemos estar seguros de escoger la mejor tecnología para nuestras necesidades específicas? La respuesta no siempre es simple. Al final hay un número de factores a considerar en el proceso de adquisición.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [

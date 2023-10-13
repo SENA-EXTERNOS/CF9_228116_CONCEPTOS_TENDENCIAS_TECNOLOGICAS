@@ -22,53 +22,53 @@
         .col-lg-5.col-10.mb-lg-0.mb-4
           img(src="@/assets/curso/tema4/img02.jpg")
         .col-lg-6
-          p #[b LAN] #[em Local Area Network]
+          p #[b LAN] (#[em Local Area Network])
           p.mb-0 Permite la conexión de dispositivos en espacios relativamente reducidos. Es la más utilizada en el proceso de intercambio de datos, pues por su naturaleza se aplica desde la empresa más pequeña hasta la más grande. Su principal característica es que, permite la interconexión de múltiples nodos (unidades de almacenamiento, impresoras y otros dispositivos), aunque no estén conectados físicamente a los ordenadores. La principal desventaja es que los nodos que se pueden conectar, son limitados.
       .row.align-items-center.BG13.py-md-4.py-3(titulo="WAN")
         .col-lg-5.col-10.mb-lg-0.mb-4
           img(src="@/assets/curso/tema4/img03.jpg")
         .col-lg-6
-          p #[b WAN] #[em Wide Area Network]
+          p #[b WAN] (#[em Wide Area Network])
           p Propicia la conexión de dispositivos con diferentes localizaciones, en algunos casos distantes geográficamente. Este tipo de red cubre distancias de entre 100 y 1.000 kilómetros, brindando conectividad a varias ciudades, incluso a un país entero.
           p.mb-0 Las redes más conocidas de este tipo son las líneas telefónicas y los satélites. Las redes WAN pueden ser implementadas por organizaciones y darles un uso privado o público según la necesidad establecida. 
       .row.align-items-center.BG13.py-md-4.py-3(titulo="MAN")
         .col-lg-5.col-10.mb-lg-0.mb-4
           img(src="@/assets/curso/tema4/img04.jpg")
         .col-lg-6
-          p #[b MAN] #[em Metropolitan Area Network]
+          p #[b MAN] (#[em Metropolitan Area Network])
           p En cuanto a la cobertura geográfica, MAN tiene un mayor alcance que la red LAN y menor que la red WAN; es por esta razón que se implementan generalmente en ámbitos más reducidos como ciudades y pueblos. 
           p.mb-0 El principal medio conductor que se emplea en la transferencia de información es la fibra óptica, lo que permite no solo una conexión más rápida, sino también tasas de errores y latencia ―suma de retardos temporales de una red― más bajas que otras redes. Además, son más estables y resistentes a las interferencias radioeléctricas.
       .row.align-items-center.BG13.py-md-4.py-3(titulo="WLAN")
         .col-lg-5.col-10.mb-lg-0.mb-4
           img(src="@/assets/curso/tema4/img05.jpg")
         .col-lg-6
-          p #[b WLAN] #[em Wireless Local Network]
+          p #[b WLAN] (#[em Wireless Local Network])
           p.mb-0 A diferencia de las otras redes, el intercambio de información se realiza a través de ondas de radio. Su principal inconveniente es la inseguridad, ya que cualquier persona con una terminal inalámbrica puede conectarse a otro punto de acceso privado, si este carece de las medidas de seguridad apropiadas.
       .row.align-items-center.BG13.py-md-4.py-3(titulo="WMAN")
         .col-lg-5.col-10.mb-lg-0.mb-4
           img(src="@/assets/curso/tema4/img06.jpg")
         .col-lg-6
-          p #[b WMAN] #[em Wireless Metropolitan Network]
+          p #[b WMAN] (#[em Wireless Metropolitan Network])
           p Es la versión inalámbrica de las redes de área metropolitana convencionales. La principal diferencia con las MAN, es que su alcance es mayor. 
           p.mb-0 Esta tecnología está presente en estándares de comunicación como el WiMAX (Interoperabilidad Mundial para Acceso con Microondas) por sus siglas en inglés.
       .row.align-items-center.BG13.py-md-4.py-3(titulo="WWAN")
         .col-lg-5.col-10.mb-lg-0.mb-4
           img(src="@/assets/curso/tema4/img07.jpg")
         .col-lg-6
-          p #[b WWAN] #[em Wireless Wide Area Network]
+          p #[b WWAN] (#[em Wireless Wide Area Network])
           p.mb-0 Tiene un alcance geográfico mucho más amplio que el que ofrece la red WMAN. En vez de usar tecnologías de comunicaciones móviles como WiMAX, UMTS, GPRS, EDGE, CDMA2000, GSM, CDPD, Mobitex, HSPA y 3G, utiliza sistemas como el Wifi y el LMDS (Sistema de Distribución Local Multipunto), por sus siglas en inglés.
       .row.align-items-center.BG13.py-md-4.py-3(titulo="SAN")
         .col-lg-5.col-10.mb-lg-0.mb-4
           img(src="@/assets/curso/tema4/img08.jpg")
         .col-lg-6
-          p #[b SAN] #[em Storage Area Network]
+          p #[b SAN] (#[em Storage Area Network])
           p Es un tipo de red muy utilizado por empresas de mayor tamaño porque permite conectar varias unidades de almacenamiento a las redes LAN. Se usa en los ordenadores centrales encargados de procesar gran cantidad de datos.
           p.mb-0 Estas redes también son consideradas secundarias, pues su función principal es servir de contingencia de los servicios de almacenamiento de datos.
       .row.align-items-center.BG13.py-md-4.py-3(titulo="PAN")
         .col-lg-5.col-10.mb-lg-0.mb-4
           img(src="@/assets/curso/tema4/img09.jpg")
         .col-lg-6
-          p #[b PAN] #[em Personal Área Network]
+          p #[b PAN] (#[em Personal Área Network])
           p.mb-0 Conecta los dispositivos cercanos al usuario en un entorno reducido: ordenadores, puntos de acceso a internet y teléfonos móviles. Este tipo de red se implementa en hogares o empresas muy pequeñas.
 
     p Ahora revisaremos la división según la manera en que se conectan los equipos:

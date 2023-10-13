@@ -14,7 +14,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/intro/img01.jpg')})`}"
       )(data-aos="fade-right")
       .bloque-texto-g__texto.p-5(data-aos="fade-left")
-        p.mb-0 Estimado aprendiz: en este componente formativo se abordará lo relacionado con las Tecnologías de la Información (TI) transitando por los conceptos básicos de #[em hardware] y software, los cuales han adquirido una acogida significativa en cuanto a su evolución y características de configuración. Son estos factores puntos vitales a la hora de adquirirlos en el mercado informático, que apunta a una acelerada transformación digital.
+        p.mb-0 Estimado aprendiz: en este componente formativo se abordará lo relacionado con las Tecnologías de la Información (TI) transitando por los conceptos básicos de #[em hardware] y #[em software], los cuales han adquirido una acogida significativa en cuanto a su evolución y características de configuración. Son estos factores puntos vitales a la hora de adquirirlos en el mercado informático, que apunta a una acelerada transformación digital.
     
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-10.cajon.color-secundario.p-4

@@ -18,7 +18,7 @@
         .BG01.p-4
           p 1.	Implementa y mantiene aplicaciones comerciales, servicios e infraestructura (servidores, redes, almacenamiento).
           p 2. Supervisa, optimiza y soluciona problemas del rendimiento de las aplicaciones, los servicios y la infraestructura.
-          p.mb-0 3.	Supervisa la seguridad y el gobierno de las aplicaciones, los servicios y la infraestructura”. (John, Spacey, 2018).
+          p.mb-0 3.	Supervisa la seguridad y el gobierno de las aplicaciones, los servicios y la infraestructura. (John, Spacey, 2018).
     
     p A continuación, exploraremos los tipos de sistemas de información más utilizados:
 
@@ -38,7 +38,7 @@
             .col-10
               img(src="@/assets/curso/tema1/img03.svg")
           .h4 Sistema de Información Gerencial (MIS)
-          p El sistema está diseñado para tomar datos sin procesar y tramitar disponibles a través de un sistema de procesamiento de transacciones y convertirlos en un formulario resumido y agregado para el gerente, generalmente en un formato de informe. Tiende a ser utilizado por mandos intermedios y supervisores operativos con el fin de reportar su gestión a los altos mandos,
+          p El sistema está diseñado para tomar datos sin procesar y tramitar disponibles a través de un sistema de procesamiento de transacciones y convertirlos en un formulario resumido y agregado para el gerente, generalmente en un formato de informe. Tiende a ser utilizado por mandos intermedios y supervisores operativos con el fin de reportar su gestión a los altos mandos.
           p.mb-0 A su vez, produce diferentes tipos de informes como: informe resumido, informe de pedido, informes ad hoc e informe de excepción. Ejemplo: sistemas de gestión de ventas y sistema de gestión de recursos humanos.
       .col-xl-3.col-md-6.mb-xl-0.mb-4(data-aos="fade-left")
         .BG02.p-4.h-100
