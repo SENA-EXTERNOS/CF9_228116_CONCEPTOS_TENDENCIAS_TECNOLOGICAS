@@ -201,15 +201,15 @@ export default {
     },
     {
       referencia:
-        'Editorial Grudemi (2018). Población estadística. Obtenido de: Enciclopedia Económica',
-      link: 'https://enciclopediaeconomica.com/poblacion-estadistica/',
+        'Editorial Etecé (2021). <em>Población estadística. </em>Obtenido de: Editorial Etecé',
+      link: 'https://concepto.de/poblacion-estadistica/',
     },
-    {
-      referencia:
-        'bootpootin.tech. (20 de Febrero de 2021). What is Information System? Bootpootin, 1. Obtenido de',
-      link:
-        'https://bootpoot.tech/what-is-information-system-definition-characteristics-and-types-of-information-system/',
-    },
+    // {
+    //   referencia:
+    //     'bootpootin.tech. (20 de Febrero de 2021). What is Information System? Bootpootin, 1. Obtenido de',
+    //   link:
+    //     'https://bootpoot.tech/what-is-information-system-definition-characteristics-and-types-of-information-system/',
+    // },
     {
       referencia:
         'Piaggio F. (26 de Abril de 2019) Redes Informáticas.. Obtenido de',
